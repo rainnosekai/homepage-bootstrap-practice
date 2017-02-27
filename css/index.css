@@ -21,9 +21,16 @@ body{
 	background-color: greenyellow;
 }
 #infor{
-	height: 1000px;
 	background-color: burlywood;
+	height: 1000px;
 }
+#inforpic{
+    background-color:#FF0000;
+    opacity: 0.8;
+}
+#inforpic p{
+}
+
 ul .active{
 	border-bottom: 2px solid red;
 }
